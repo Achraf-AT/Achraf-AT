@@ -21,12 +21,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🧪 Testing & QA:
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/🎭%20Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%2323D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure%20Report-1E1E1E?style=for-the-badge&logo=allure&logoColor=white)
+![Allure](https://img.shields.io/badge/📊%20Allure%20Report-%23E3608E.svg?style=for-the-badge&logo=allure&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray%20Test%20Management-1A5E9A?style=for-the-badge&logo=jira&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF6C37.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
