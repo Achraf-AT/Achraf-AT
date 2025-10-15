@@ -28,7 +28,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure%20Report-1E1E1E?style=for-the-badge&logo=allure&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray%20Test%20Management-1A5E9A?style=for-the-badge&logo=jira&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF6C37.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF6C37.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AchrafHad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
