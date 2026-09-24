@@ -35,10 +35,3 @@
 ![Xray](https://img.shields.io/badge/Xray%20Test%20Management-1A5E9A?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-//![](https://github-readme-stats.vercel.app/api?username=AchrafHad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-//![](https://nirzak-streak-stats.vercel.app/?user=AchrafHad&theme=dark&hide_border=false)<br/>
-//![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafHad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-//---
-//[![](https://visitcount.itsvg.in/api?id=AchrafHad&icon=0&color=0)](https://visitcount.itsvg.in)
-
